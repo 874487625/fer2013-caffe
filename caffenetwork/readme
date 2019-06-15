@@ -1,3 +1,3 @@
 the network based on Caffe to classify the fer2013 dataset
 caffe.py is used in HuaWei ModelArts
-network structure is in train_val.prototxt and facial_net.prototxt
+network structure is in train_val.prototxt and facialnet_solver.prototxt
